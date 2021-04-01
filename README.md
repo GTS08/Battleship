@@ -6,5 +6,8 @@ This project was part of the Computer Engineering and Informatics Department (CE
 
 This is a terminal version of the game Battleship written in C++.
 
+## UML Diagram
+![UML Diagram](UMLDiagram.png)
+
 ## Tools
 * Code::Blocks IDE
