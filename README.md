@@ -1,5 +1,10 @@
-# Battleship Game Implemented In C++
+# Battleship Game
 
-This project is part of the Computer Engineering and Informatics Department (CEID) of University of Patras curriculum.
+## About The Project
 
-Code::Blocks IDE was used.
+This project was part of the Computer Engineering and Informatics Department (CEID) of University of Patras curriculum.
+
+This is a terminal version of the game Battleship written in C++.
+
+## Tools
+* Code::Blocks IDE
