@@ -1,5 +1,5 @@
 # Battleship Game
-[![Run on Repl.it](https://repl.it/badge/github/GTS08/Battleship)](https://repl.it/github/GTS08/Battleship)
+[![Run on Repl.it](https://repl.it/badge/github/gthomas10/Battleship)](https://repl.it/github/gthomas10/Battleship)
 
 ## About The Project
 
