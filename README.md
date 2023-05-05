@@ -1,4 +1,5 @@
 # Battleship Game
+
 [![Run on Repl.it](https://repl.it/badge/github/gthomas10/Battleship)](https://repl.it/github/gthomas10/Battleship)
 
 ## About The Project
@@ -8,7 +9,9 @@ This project was part of the Computer Engineering and Informatics Department (CE
 This is a terminal version of the game Battleship written in C++.
 
 ## UML Diagram
-![UML Diagram](UMLDiagram.png)
+
+![UML Diagram](./images/UMLDiagram.png)
 
 ## Tools
-* Code::Blocks IDE
+
+- Code::Blocks IDE
